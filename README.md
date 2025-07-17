@@ -11,8 +11,8 @@ Responsive layout for mobile and desktop
 Organized navigation bar: Home, About Us, Contact Us
 
 🔧 Technologies Used
+
+
 HTML5
-
 CSS3
-
 JavaScript (vanilla)
